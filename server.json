@@ -1,0 +1,76 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "name": "Ao molho",
+      "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas.",
+      "price": "19.90",
+      "available": true,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
+    },
+    {
+      "id": 2,
+      "name": "Veggie",
+      "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
+      "price": "21.90",
+      "available": true,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
+    },
+    {
+      "id": 3,
+      "name": "A la Camarón",
+      "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
+      "price": "25.90",
+      "available": true,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://image.shutterstock.com/image-photo/healthy-food-clean-eating-selection-600w-722718082.jpg",
+      "name": "Comida Saudável",
+      "price": "20.99",
+      "description": "Esse prato temos alimentos saudáveis",
+      "available": true,
+      "id": 4
+    },
+    {
+      "id": 5,
+      "image": "https://image.shutterstock.com/image-photo/almonds-on-rustic-table-almond-260nw-1742569778.jpg",
+      "name": "Oi alteração funcionou",
+      "price": "35.00",
+      "description": "Teste 23345",
+      "available": true
+    },
+    {
+      "image": "https://image.shutterstock.com/image-photo/almonds-on-rustic-table-almond-260nw-1741637879.jpg",
+      "name": "Test34",
+      "price": "36.6",
+      "description": "Teset rtewtet",
+      "available": true,
+      "id": 6
+    },
+    {
+      "image": "https://image.shutterstock.com/image-photo/italian-food-background-vine-tomatoes-260nw-162331463.jpg",
+      "name": "Testeset 45 ",
+      "price": "23.89",
+      "description": "TTeste",
+      "available": true,
+      "id": 7
+    },
+    {
+      "image": "https://img.itdg.com.br/tdg/images/blog/uploads/2018/12/Comida-chinesa.jpg?w=1200",
+      "name": "Teste 895",
+      "price": "20.36",
+      "description": "Teste",
+      "available": true,
+      "id": 8
+    },
+    {
+      "image": "https://meubistro.com/blog/wp-content/uploads/2018/01/quantidade-comida-pessoa.jpg",
+      "name": "Teste 4566",
+      "price": "45",
+      "description": "Bdasfsdf",
+      "available": true,
+      "id": 10
+    }
+  ]
+}
